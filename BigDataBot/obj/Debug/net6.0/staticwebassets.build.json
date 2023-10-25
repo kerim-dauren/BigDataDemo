@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "FTxZXUfypvryQSlwSNp2b0qEQnV/Mw5XIRn7tIrc4CY=",
+  "Source": "BigDataBot",
+  "BasePath": "_content/BigDataBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BigDataBot\\wwwroot",
+      "Source": "BigDataBot",
+      "ContentRoot": "C:\\Users\\kerim\\RiderProjects\\BigDataBot\\BigDataBot\\wwwroot\\",
+      "BasePath": "_content/BigDataBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kerim\\RiderProjects\\BigDataBot\\BigDataBot\\wwwroot\\default.html",
+      "SourceId": "BigDataBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kerim\\RiderProjects\\BigDataBot\\BigDataBot\\wwwroot\\",
+      "BasePath": "_content/BigDataBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
